@@ -1,4 +1,6 @@
-# CodeWars Challenges
+# FromTheGroundUp
+
+![image](https://raw.githubusercontent.com/LuisDFlores/C-Projects/main/Images/structs.png)
 A repository for a structures project. A project for the creation of data structures that enhance data manipulation
 
 

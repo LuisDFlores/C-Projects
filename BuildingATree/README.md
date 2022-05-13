@@ -1,6 +1,7 @@
 # Building A Tree - From Scratch
 To go beyond simply calling libraries with data structures all ready built. To go the extra step and truly understand how everything works, by simply building it from scratch
 
+![image](https://raw.githubusercontent.com/LuisDFlores/C-Projects/main/Images/planting.jpg)
 
 ## How It's Made:
 
